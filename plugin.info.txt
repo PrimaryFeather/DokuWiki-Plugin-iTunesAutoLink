@@ -1,0 +1,7 @@
+base   itunesautolink
+author Daniel Sperl
+email  daniel@gamua.com
+date   2014-07-01
+name   iTunes Auto Link Maker
+desc   Any iTunes or AppStore link will be automatically converted to an affiliate link.
+url    https://github.com/PrimaryFeather/DokuWiki-Plugin-iTunes-Auto-Link
